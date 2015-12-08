@@ -17,7 +17,7 @@ Per partecipare
 Le pull requests (modifiche proposte) sono attualmente valutate da me ma sono discusse pubblicamente. Spero prestissimo di avere collaboratori (più sono meglio sto).
 
 ### To have
-Un sistema per dare al non esperto immediata visibilità delle sue modifiche. Se uno dei nostri legali fa modifiche a una parte di testo vorrà vedere come viene e sarebbe bello dargli la possibilità di apprezzare un 'anteprima delle modifiche. Attualmente github non visualizza anteprime di un tuo repository se non tramite github pages ed è possibile solo una account github pages per utente.
+Un sistema per dare al non esperto immediata visibilità delle sue modifiche. Se uno dei nostri legali fa modifiche a una parte di testo vorrà vedere come viene e sarebbe bello dargli la possibilità di apprezzare un 'anteprima delle modifiche. Attualmente github non visualizza anteprime di un tuo repository se non tramite github pages ed è possibile solo un sito github pages per account utente (da esplorare la possibilità di fare pagine di progetto con gh-pages).
 
 ## Per cominciare (esperti di git)
 * Bisogna iscriversi a Github
