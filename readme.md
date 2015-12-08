@@ -11,7 +11,7 @@ Per partecipare
 * Andare sul proprio repository su github (frutto del fork)
 * Individuare e cliccare sul file che si vuole modificare
 * Cliccare sull'icona della penna in alto a destra per entrare in modalità modifica
-* Per "salvare" selezionare "Create a new branch for this commit and start a pull request. Learn more about pull requests.". opzionalmente immettere una descrizione della modifica effettuata
+* Per "salvare" selezionare "Create a new branch for this commit and start a pull request. Learn more about pull requests.".  Opzionalmente immettere una descrizione della modifica effettuata
 * Dare un nome alla branch di modifiche creata e sottomettere la pull request
 
 Le pull requests (modifiche proposte) sono attualmente valutate da me ma sono discusse pubblicamente. Spero prestissimo di avere collaboratori (più sono meglio sto).
