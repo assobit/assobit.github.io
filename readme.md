@@ -1,26 +1,31 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
+# Sito dell'assoziazione Assob.it
 
-[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+Il sistema Git, github e github pages costituiscono un insieme di strumenti molto utili per la manutenzione collaborativa di un sito Web e la nostra associazione deve basarsi necessariamente sulla collaborazione.
 
-## Getting Started
+## Per cominciare (non esperti)
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Per partecipare
+* Bisogna iscriversi a Github
+* Fare un fork di questo repository creando una copia sul proprio account github
+### Per fare modifiche su una pagina
+* Andare sul proprio repository su github (frutto del fork)
+* Individuare e cliccare sul file che si vuole modificare
+* Cliccare sull'icona della penna in alto a destra per entrare in modalità modifica
+* Per "salvare" selezionare "Create a new branch for this commit and start a pull request. Learn more about pull requests.".  Opzionalmente immettere una descrizione della modifica effettuata
+* Dare un nome alla branch di modifiche creata e sottomettere la pull request
 
-## Bugs and Issues
+Le pull requests (modifiche proposte) sono attualmente valutate da me ma sono discusse pubblicamente. Spero prestissimo di avere collaboratori (più sono meglio sto).
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/).
+### To have
+Un sistema per dare al non esperto immediata visibilità delle sue modifiche. Se uno dei nostri legali fa modifiche a una parte di testo vorrà vedere come viene e sarebbe bello dargli la possibilità di apprezzare un 'anteprima delle modifiche. Attualmente github non visualizza anteprime di un tuo repository se non tramite github pages ed è possibile solo un sito github pages per account utente (da esplorare la possibilità di fare pagine di progetto con gh-pages).
 
-## Creator
+## Per cominciare (esperti di git)
+* Bisogna iscriversi a Github
+* Fare un fork di questo repository creando una copia sul proprio account github
+* Clonare il repo e mantenerlo sincronizzato con quello di origine
+* Aprire una branche per ogni gruppo di modifiche uniformi (è più ordinato)
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## Errori e Problemi
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+Contattate la mailing list dell'associazione o lasciate una nota sul repo oppure (meglio) forkate, modificate e aprite una pull request

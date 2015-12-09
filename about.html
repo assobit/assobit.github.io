@@ -1,3 +1,6 @@
+---
+title: test di jekill
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -35,53 +38,19 @@
 
 
     <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="index.html"><img src="img/Assobit-logo-bottone.png" height="22px" width="100px"/></a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a href="about.html">Chi siamo</a>
-                    </li>
-                    <li>
-                        <a href="news.html">News</a>
-                    </li>
-                    <li>
-                        <a href="docs.html">Documenti</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contatti</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
+    {% include navbar.html %}
+    <!-- funziona con jekyll -->
+    {% include navbar.html %}
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" style="background-image: url('img/about-bg.jpg')">
+        <!-- forse è il caso di cambiarla -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
-                        <h1>Assob.it</h1>
+                        <h1 style="font-style:italic;">Assob.it</h1>
                         <hr class="small">
                         <span class="subheading">Chi siamo</span>
                     </div>
@@ -91,27 +60,94 @@
     </header>
 
     <!-- Main Content -->
+<p>
+
+
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p><strong><span style="color: #000000;">AssoB.IT</span></strong> è un'associazione senza scopo di lucro nata con l'idea di promuovere la crescita e la diffusione delle tecnologie blockchain e di massimizzare sinergia, condivisione e collaborazione tra le aziende ed i professionisti che si muovono in questo campo di grande innovazione.
-                </p>
                 <p>
-                    <img style="float:left;" src="http://training4biz.com/youeweb_new/wp-content/uploads/2015/06/1-01-150x150.png" alt="" width="150" height="150">
-                   <strong>Contrastare la disinformazione</strong> che, come nel caso di qualunque altra innovazione tecnologica di grande impatto, si è creata anche intorno alla “rivoluzione blockchain”, con organizzazione di eventi divulgativi e produzione di materiali dedicati agli sviluppi tecnologici, alle normative legali vigenti e allo studio dei rischi e dei vantaggi che si presentano a chi opera in questo nuovo settore. Fornire una certificazione sulle attività e i progetti dotati di crismi di serietà e professionalità, in un ambito fisiologicamente ancora molto esposto a frodi, imbrogli ed iniziative avventurose o poco trasparenti.
+
+                  <strong>AssoB.IT</strong> è un'associazione senza scopo di lucro nata con l'idea di promuovere la crescita e la diffusione delle tecnologie blockchain
+                  <a  data-toggle="collapse" href="#collapseZero" style="font-style:normal;">[...]</a>
+
+                  <div id="collapseZero" class="collapse">
+                    e di massimizzare sinergia, condivisione e collaborazione tra le aziende ed i professionisti che si muovono in questo campo di grande innovazione.
+                  </div>
                 </p>
-                <p>
-                    <img style="float:left;" src="http://training4biz.com/youeweb_new/wp-content/uploads/2015/06/2-01-150x150.png" alt="" width="150" height="150">
-                    <strong>Fornire assistenza</strong>, sia legale che di business, a chiunque sia interessato a iniziare a utilizzare tecnologie blockchain per qualunque finalità: dai sistemi di pagamento, alla decentralizzazione dei contratti, agli investimenti in commodity sintetica, alle applicazioni legate a privacy e sicurezza informatica. Mettere in contatto chiunque sia interessato a sviluppare soluzioni legate a questo tipo di tecnologia, generando sinergie e coordinando gli sforzi di advocacy, di lobbying e di rappresentanza degli interessi e delle esigenze del settore.
-                </p>
-                <p>
-                    <img style="float:left;" src="http://training4biz.com/youeweb_new/wp-content/uploads/2015/06/3-01-150x150.png" alt="" width="150" height="150">
-                     <strong>Sviluppare una piattaforma interna</strong> che sfrutti le potenzialità delle tecnologie blockchain per automatizzare in modo decentralizzato, trasparente e sicuro le dinamiche associative e di governance della stessa AssoB.IT, arrivando a costituire addirittura un primo, piccolo esempio di “DAO” (“decentralized autonomous organization”).
-                </p>
+                <p>Si pone l'obiettivo di:</p>
+                <div id="accordion">
+                  <ol>
+                    <li>
+
+                        <strong>Contrastare la disinformazione</strong> <a  data-toggle="collapse" href="#collapseOne" data-parent="#accordion">[...]
+                      </a>
+                      <div id="collapseOne" class="panel-collapse collapse">
+                        <p>
+                          che, come nel caso di qualunque altra innovazione tecnologica di grande impatto, si è creata anche intorno alla “rivoluzione blockchain”, con organizzazione di eventi divulgativi e produzione di materiali dedicati agli sviluppi tecnologici, alle normative legali vigenti e allo studio dei rischi e dei vantaggi che si presentano a chi opera in questo nuovo settore. Fornire una certificazione sulle attività e i progetti dotati di crismi di serietà e professionalità, in un ambito fisiologicamente ancora molto esposto a frodi, imbrogli ed iniziative avventurose o poco trasparenti.
+                        </p>
+                      </div>
+                    </li>
+                    <li><strong>Fornire assistenza</strong>
+                      <a  data-toggle="collapse" href="#collapseTwo" data-parent="#accordion">
+                         [...]
+                      </a>
+                      <p id="collapseTwo" class="collapse" >
+                        sia legale che di business, a chiunque sia interessato a iniziare a utilizzare tecnologie blockchain per qualunque finalità: dai sistemi di pagamento, alla decentralizzazione dei contratti, agli investimenti in commodity sintetica, alle applicazioni legate a privacy e sicurezza informatica. Mettere in contatto chiunque sia interessato a sviluppare soluzioni legate a questo tipo di tecnologia, generando sinergie e coordinando gli sforzi di advocacy, di lobbying e di rappresentanza degli interessi e delle esigenze del settore.
+                      </p>
+                    </li>
+                    <li><strong>Sviluppare una piattaforma interna</strong>
+                      <a  data-toggle="collapse"  href="#collapseThree" data-parent="#accordion">
+                         [...]
+                      </a>
+                      <p id="collapseThree" class="collapse" >
+                          che sfrutti le potenzialità delle tecnologie blockchain per automatizzare in modo decentralizzato, trasparente e sicuro le dinamiche associative e di governance della stessa AssoB.IT, arrivando a costituire addirittura un primo, piccolo esempio di “DAO” (“decentralized autonomous organization”).-->
+                      </p>
+                    </li>
+                  </ol>
+                </div>
             </div>
         </div>
     </div>
-
+</p>
+  <p>
+    <div class="row">
+                    <div class="col-lg-4 col-md-6 col-lg-offset-2 text-center">
+                        <div class="service-box">
+                            <img src="https://tinkl.it/assets/logo_footer-60993dff7fee76ca2aec386784e22b1f.png" height="80px" width="200px"/>
+                        </div>
+                    </div>
+    </div>
+  </p>
+  <p>
+    <div class="row">
+                    <div class="col-lg-2 col-md-6 col-lg-offset-1 text-center">
+                        <div class="service-box">
+                            <img src="https://greenaddress.it/static/img/logos/logo-greenaddress.png" height="30px" width="30px"/>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 text-center">
+                        <div class="service-box">
+                            <img src="http://www.oraclize.it/assets/images/oraclize_logo.png" height="30px" width="30px"/>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 text-center">
+                        <div class="service-box">
+                          <img src="https://holytransaction.com/images/logo.png"/>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 text-center">
+                        <div class="service-box" style="background-color: #000000;">
+                            <img src="https://www.therocktrading.com/assets/trt_logo_l-23fa299dbb86f753fc42c58ad7db6b0b.png" />
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 text-center">
+                        <div class="service-box">
+                            <img src="https://pbs.twimg.com/profile_images/582303609255264256/2gUhmRwK_400x400.jpg" height="30px" width="30px" />
+                        </div>
+                    </div>
+    </div>
+  </p>
     <hr>
 
     <!-- Footer -->
