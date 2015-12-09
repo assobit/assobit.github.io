@@ -65,12 +65,10 @@ excerpt_separator: <!--more-->
 
                     {% for post in site.posts %}
 
-                      <div class="estratto">{{ post.estratto }}</div>
-
-                      <div> {{ post.excerpt }}</div><a href="{{ post.url }}">Read More...</a>
-
-
-
+                     <h2 class="class="post-title"">{{ post.titolo }}</h2>
+                      <div class="estratto" style="font-style:italic;">{{ post.estratto }}</div>
+                      <div style="font-style:italic;">{{ post.autore }} - {{ post.ruolo }}</div> 
+                      <a href="{{ post.url }}">Read More...</a>
                       <div class="date-post">{{ post.date }}</div>
                     <hr>
 
