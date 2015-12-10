@@ -1,28 +1,9 @@
 ---
+layout: default
 bgimg: img/post-bg.jpg
 title: News
 sub-title: Tutto ciò che succede attorno al mondo dell'associazione
 ---
-<!DOCTYPE html>
-<html lang="en">
-
-   {% include head.html %}
-
-<body>
-
-    <!-- Navigation -->
-    {% include navbar.html %}
-
-    <!-- Page Header -->
-    {% include header.html %}
-
-    <!-- Post Content -->
-
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
-
                     {% for post in site.posts %}
 
 
@@ -41,24 +22,3 @@ sub-title: Tutto ciò che succede attorno al mondo dell'associazione
 
                     {% endfor %}
 
-              </div>
-          </div>
-        </div>
-
-
-
-    <!-- Footer -->
-    {% include footer.html%}
-
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="js/clean-blog.min.js"></script>
-
-</body>
-
-</html>
