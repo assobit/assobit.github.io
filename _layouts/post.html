@@ -1,15 +1,20 @@
 ---
-layout: default
 ---
+
+
+
+
 <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+	<div class="post-header">
+                <div class="estratto" style="font-style:italic;">{{ page.titolo }}</div>
+                <div class="estratto" style="font-style:italic;">{{ page.title }}</div>
+                <div style="font-style:italic;">{{ page.autore }} - {{ page.ruolo }}</div> 
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+	</div>
 
+	<div class="post-content">
+            <h2 class="class="post-title"">{{ page.titolo }}</h2>
+    	{{ content }}
+    </div>
 </div>
