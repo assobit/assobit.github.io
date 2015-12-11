@@ -1,24 +1,24 @@
 ---
 layout: default
 bgimg: img/post-bg.jpg
-title: News
-sub-title: Tutto ciò che succede attorno al mondo dell'associazione
+title: News e articoli degli e sugli associati
+sub-title: l'opera dei membri dell'associazione
 ---
                     {% for post in site.posts %}
-
-
-
-                     <h2 class="class="post-title"">{{ post.titolo }}</h2>
-                      <div class="estratto" style="font-style:italic;">{{ post.estratto }}</div>
-                      <div style="font-style:italic;">{{ post.autore }} - {{ post.ruolo }}</div> 
-                     {% if post.external_url == null %}
-                        <a href="{{ post.url }}">Read More...</a>
-                    {% else %}
-                        <a href="{{ post.external_url }}">Read More... (sito esterno)</a>
-                    {% endif %}
-                       
-                      <div class="date-post">{{ post.date | date_to_string }}</div>
-                    <hr>
+<article class="post-preview">
+  <img width="332" height="221" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design (7)">
+  <h2 class="post-title">{{ post.titolo }}</h2>
+   <div class="estratto" style="font-style:italic;">{{ post.estratto }}</div>
+  <!-- se la pagina non ha un link esterno -->
+    {% if post.external_url == null %}
+    <!-- punto a quello e non ci sarà un contenuto del post sul sito -->
+      <a href="{{ post.url }}">Read More...</a>
+    {% else %}
+      <a href="{{ post.external_url }}">Read More... (sito esterno)</a>
+    {% endif %}
+  <div class="credit">{{ post.membro }} - {{ post.ruolo }}</div>
+  <div class="date-post">{{ post.date | date_to_string }}</div>
+  <hr>
+</article>
 
                     {% endfor %}
-
