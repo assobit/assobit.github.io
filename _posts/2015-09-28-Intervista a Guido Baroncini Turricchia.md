@@ -1,6 +1,6 @@
 ---
 layout: post
-external_url: https://shop.giuffre.it/
+external_url: http://www.assob.it/index.php/2015/09/18/intervista-a-guido-baroncini-turricchia/
 img: http://www.assob.it/wp-content/uploads/2015/09/intervista-a-Guido-Baroncini-Turricchia.png
 membro: Guido Baroncini Turricchia
 ruolo: Membro fondatore AssoB.it
