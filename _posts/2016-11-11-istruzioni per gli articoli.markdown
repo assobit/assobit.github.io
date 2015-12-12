@@ -1,0 +1,80 @@
+---
+layout: post
+img: https://jekyllrb.com/img/logo-2x.png
+---
+E' estremamente semplice scrivere un articolo. Solo il primo paragrafo comparirà nella pagina news come sintesi.
+
+
+# Il titolo dell'articolo ha la riga che inizia con '#'
+
+Per aggiungere un nuovo post al sito copiare quersto file e salvatelo nel fomato `AA-MM-GG-titolo del post.md` se volete scrivere in questo formato (molto comodo e semplice) oppure .html se volete fusare questo formato. E' necessario compilare le tre righe sopra riportate qui sotto spiegate:
+---
+layout: post 					serve per applicare il giusto template quindi lasciarlo così 
+membro: Thomas Bertani			Il membro o la ditta associata autrice dell'articolo o di cui la notizia tratta
+ruolo: Membro Fondatore			Ruolo dell'associato se ne ha uno specifico se no basta "membro AssoB.it"
+img: /img/thomas.jpg 			Immagine che accompagna l'articolo
+---
+
+## Questo è un titolo di secondo livello (corrisponde a un h2 in html)
+
+> Questa è una citazione
+
+guardate come viene.
+
+*Questo testo è in corsivo*
+
+**Questo testo è in grassetto.**
+
+**Questa è una frase in grassetto con una parola in _corsivo_ in mezzo.**
+
+
+Questa é una lista non ordinata:
+
+* elemento uno
+* elemento due
+
+Questa é una tabella:
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+Questa é un'altra tabella.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Si può anche allineare a destra o sinistra
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
+
+Questo è codice:
+
+```
+print(hello world!)
+```
+
+Jekyll offre anche un supporto potente per il codice snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Date un'occhiata a [Jekyll docs][jekyll] per ottenere informazioni su come avere il massimo da jekyll e sopratutto usate questo paragrafo per vedere come sono fatti i collegamenti ipertestuali. 
+File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
