@@ -1,18 +1,11 @@
-# Sito dell'assoziazione Assob.it
+# Sito dell'associazione Assob.it
 
-Il sistema Git, github e github pages costituiscono un insieme di strumenti molto utili per la manutenzione collaborativa di un sito Web e la nostra associazione deve basarsi necessariamente sulla collaborazione.
+Il sistema Git, github, [github pages](https://pages.github.com/) costituiscono un insieme di strumenti molto utili per la manutenzione collaborativa di un sito Web e la nostra associazione deve basarsi necessariamente sulla collaborazione.
 
 ## Per cominciare (non esperti)
 
-Per partecipare
 * Bisogna iscriversi a Github
-* Fare un fork di questo repository creando una copia sul proprio account github
-### Per fare modifiche su una pagina
-* Andare sul proprio repository su github (frutto del fork)
-* Individuare e cliccare sul file che si vuole modificare
-* Cliccare sull'icona della penna in alto a destra per entrare in modalità modifica
-* Per "salvare" selezionare "Create a new branch for this commit and start a pull request. Learn more about pull requests.".  Opzionalmente immettere una descrizione della modifica effettuata
-* Dare un nome alla branch di modifiche creata e sottomettere la pull request
+* Seguire le istruzioni sulle [[FAQ | https://github.com/gabridome/gabridome.github.io/wiki/FAQ ]] per fare le operazioni comuni usando solo github.com
 
 Le pull requests (modifiche proposte) sono attualmente valutate da me ma sono discusse pubblicamente. Spero prestissimo di avere collaboratori (più sono meglio sto).
 
@@ -21,10 +14,14 @@ Un sistema per dare al non esperto immediata visibilità delle sue modifiche. Se
 
 ## Per cominciare (esperti di git)
 * Bisogna iscriversi a Github
-* Fare un fork di questo repository creando una copia sul proprio account github
-* Clonare il repo e mantenerlo sincronizzato con quello di origine
-* Aprire una branche per ogni gruppo di modifiche uniformi (è più ordinato)
+* Fare un [fork](https://help.github.com/articles/about-forks/) di questo repository creando una copia sul proprio account github
+* Clonare il repo in locale
+* [Configurare il repository di origine come "upstream"] con il comanto git remote (il nostro fork su github è già configurato come "origin")
+* [mantenerlo sincronizzato con quello di origine](https://help.github.com/articles/syncing-a-fork/)
+In sintesi si tratta di recuperare spesso tutte le branch dal repository di origine (upstream) fare il merge, fare il commit e il push **sul proprio repository su github**
 
+* Aprire una branch per ogni gruppo di modifiche uniformi (è più ordinato)
+* quando una modifica è pronta per essere sottoposta ai "committers" si apre una pull request sul proprio repository forkato di github. Questo non è altro che un invito ai committers a "tirare dentro" al repository ufficiali le modifiche su cui abbiamo lavorato.
 
 ## Errori e Problemi
 
