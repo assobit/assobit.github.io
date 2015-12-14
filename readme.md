@@ -4,6 +4,8 @@ Il sistema Git, github, [github pages](https://pages.github.com/) costituiscono 
 
 ## Per cominciare (non esperti)
 
+![propose-file-change](http://gabridome.gihub.io/meta/img/propose-file-change.jpg)
+
 * Bisogna iscriversi a Github
 * Seguire le istruzioni sulle [FAQ](https://github.com/gabridome/gabridome.github.io/wiki/FAQ) per fare le operazioni comuni usando solo github.com
 
