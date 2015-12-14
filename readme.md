@@ -20,7 +20,7 @@ Un sistema per dare al non esperto immediata visibilità delle sue modifiche. Se
 
 	git clone *urlRepositoryDaClonare
 
-* [Configurare il repository di origine come "upstream"] con il comando git remote. In questo modo IL *NOSTRO FORK* sarà configurato come "origin"
+* [Configurare il repository di origine come "upstream" con il comando git remote](https://help.github.com/articles/configuring-a-remote-for-a-fork). In questo modo IL *NOSTRO FORK* sarà configurato come "origin"
 *configurare il *REPOSITORY DI ORIGINE* come "upstream"
 
 	git remote add upstream *urlDelRepositoryOrigineDelClone
