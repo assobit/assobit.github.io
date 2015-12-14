@@ -94,3 +94,13 @@ bgimg: img/about-bg.jpg
     </div>
   </div>
 </p>
+<ul>
+{% for member in site.data.people %}
+  <li>
+    <div>nome: {{ member.nome }}</div>
+    <div>ruolo:{{ member.ruolo }}</div>
+    <div>descrizione:{{ member.descrizione }}  
+  </li>
+{% endfor %}
+</ul>
+
