@@ -7,7 +7,10 @@ sub-title: l'opera dei membri dell'associazione
 ---
                     {% for post in site.posts %}
 <article class="post-preview">
-  <img width="332" height="221" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design">
+    {% if post.img != null %}
+  <img width="300" height="200" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design">
+     {% else %}
+     {% endif %}    
   <h2 class="post-title">{{ post.title }}</h2>
 
    {{ post.excerpt }}
