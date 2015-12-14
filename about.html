@@ -95,14 +95,16 @@ bgimg: img/about-bg.jpg
   </div>
 </p>
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-4" style="margin-top:20px">
+    <!-- i dati sono in _data/members.yml -->
+    <div class="col-lg-8 col-lg-offset-3 col-md-4" style="margin-top:20px">
+      <h3>People</h3>
       <ul>
        {% for member in site.data.members %}
           <li>
-             <div>{{ member.nome }}</div>
-            <div>{{ member.ruolo }}  </div>
+            <img src="{{ member.immagine }}" height="60px" width="60px"/>
+             <div class="credit">{{ member.nome }}</div>
+            <div class="credit">{{ member.ruolo }}  </div>
             <div>{{ member.descrizione }}  </div>
           </li>
         {% endfor %}
       </ul>
-

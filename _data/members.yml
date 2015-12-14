@@ -1,13 +1,14 @@
 - nome: Gabriele Domenichini
   ruolo: Presidente
-  descrizione: Da sempre appssionato di tecnologia, si è appassionato ai Bitcoin dal 2011.
+  descrizione: Da sempre interessato alla tecnologia si è appassionato ai Bitcoin dal 2011.
+  immagine: /img/gabriele.domenichini.jpg
 
-- nome: Gacomo Zucco
+- nome: Giacomo Zucco
   ruolo: Vicepresidente
+  descrizione: Fondatore del Tea Party Italia, impara in fretta qualsiasi tipo di concetto e questo gli permette di restare in contatto come pochi nel mondo fluido del Bitcoin.
+  immagine: /img/giacomo.zucco.jpg
 
-- nome: Gabriele Domenichini
-  ruolo: Presidente
-
-- nome: Gabriele Domenichini
-  ruolo: Presidente
-
+- nome: Ferdinando Ametrano
+  ruolo: Presidente dell'Organo di controllo
+  descrizione: Grande teorico della moneta si muove a suo agio negli ambienti finanziari e tecnici italiani ed esteri. Coltiva visioni ambiziose che nelle sue mani dventano progetti plausibili.
+  immagine: /img/ferdinando.ametrano.jpg
