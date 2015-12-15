@@ -2,15 +2,14 @@
 layout: post
 img: https://jekyllrb.com/img/logo-2x.png
 ---
-
 E' estremamente semplice scrivere un articolo. Solo il primo paragrafo comparirà nella pagina news come sintesi.
 
 
-# Il titolo dell'articolo ha la riga che inizia con l'hashtag 
+# Il titolo dell'articolo ha la riga che inizia con l'hashtag
 
 
 	---
-	layout: post 		serve per applicare il giusto template quindi lasciarlo così 
+	layout: post 		serve per applicare il giusto template quindi lasciarlo così
 	membro: Thomas Bertani	Il membro o ditta associata o autrice dell'articolo
 	ruolo: Membro Fondatore	Ruolo dell'associato. "membro AssoB.it" è sufficiente
 	img: /img/thomas.jpg 	Immagine che accompagna l'articolo
@@ -73,7 +72,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Date un'occhiata a [Jekyll docs][jekyll] per ottenere informazioni su come avere il massimo da jekyll e sopratutto usate questo paragrafo per vedere come sono fatti i collegamenti ipertestuali. 
+Date un'occhiata a [Jekyll docs][jekyll] per ottenere informazioni su come avere il massimo da jekyll e sopratutto usate questo paragrafo per vedere come sono fatti i collegamenti ipertestuali.
 File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
