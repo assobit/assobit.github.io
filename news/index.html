@@ -5,27 +5,30 @@ excerpt_separator: <!--more-->
 title: News e articoli
 sub-title: l'opera dei membri dell'associazione
 ---
-                    {% for post in paginator.posts %}
-                    <article class="post-preview">
-                      {% if post.img != null %}
-                        <img width="300" height="200" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design">
-                        {% else %}
-                        {% endif %}
-                        <h2 class="post-title">{{ post.title }}</h2>
-                        <p>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              {% for post in paginator.posts %}
+                  <article class="post-preview">
+                  {% if post.img != null %}
+                    <img width="300" height="200" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design">
+                  {% else %}
+                  {% endif %}
+                  <h2 class="post-title">{{ post.title }}</h2>
+                      <p>
                         {{ post.content | split: '<!-- more -->' | first }}
-                        </p>
+                      </p>
                         <!-- se la pagina non ha un link esterno -->
                         {% if post.external_url == null %}
                         <!-- punto a quello e non ci sarà un contenuto del post sul sito -->
-                        <a href="{{ post.url }}">Read More...</a>
+                      <a href="{{ post.url }}">Read More...</a>
                           {% else %}
-                        <a href="{{ post.external_url }}">Read More... (sito esterno)</a>
-                        {% endif %}
-                        <div class="credit">{{ post.membro }} - {{ post.ruolo }}</div>
-                        <div class="date-post">{{ post.date | date_to_string }}</div>
-                        <hr>
-                      </article>
+                      <a href="{{ post.external_url }}">Read More... (sito esterno)</a>
+                          {% endif %}
+                      <div class="credit">{{ post.membro }} - {{ post.ruolo }}</div>
+                      <div class="date-post">{{ post.date | date_to_string }}</div>
+                      <hr>
+                  </article>
 
                     {% endfor %}
 
@@ -54,3 +57,6 @@ sub-title: l'opera dei membri dell'associazione
                       {% endif %}
                     </div>
                     {% endif %}
+            </div>
+      </div>
+</div>
