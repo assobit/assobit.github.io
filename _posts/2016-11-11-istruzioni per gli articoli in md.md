@@ -3,6 +3,7 @@ layout: post
 img: https://jekyllrb.com/img/logo-2x.png
 ---
 E' estremamente semplice scrivere un articolo. Solo il primo paragrafo comparirà nella pagina news come sintesi.
+<!-- more -->
 
 
 # Il titolo dell'articolo ha la riga che inizia con l'hashtag

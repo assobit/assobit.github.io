@@ -5,6 +5,7 @@ membro: Gabriele Domenichini
 ruolo: Presidente AssoB.it
 ---
 Questa è una news creata su github.com senza altri programmi.
+<!-- more -->
 
 ## come ho fatto
 
