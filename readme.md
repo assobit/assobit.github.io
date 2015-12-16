@@ -6,7 +6,7 @@ Il sistema Git, github, [github pages](https://pages.github.com/) e jekyll costi
 
 
 * Bisogna iscriversi a Github
-* Seguire le istruzioni sulle [FAQ](https://github.com/gabridome/gabridome.github.io/wiki/FAQ) per fare le operazioni comuni usando solo github.com
+* Seguire le istruzioni sulle [FAQ](https://github.com/assobit/assobit.github.io/wiki/FAQ) per fare le operazioni comuni usando solo github.com
 
 Le pull requests (modifiche proposte) sono attualmente valutate da me ma sono discusse pubblicamente. Spero prestissimo di avere collaboratori (più sono meglio sto).
 
