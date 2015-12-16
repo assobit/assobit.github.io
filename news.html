@@ -14,8 +14,13 @@ sub-title: l'opera dei membri dell'associazione
                         <h2 class="post-title">{{ post.title }}</h2>
                         <p>
                           {{ post.content | split: '<!-- more -->' | first }}
+<<<<<<< HEAD
                           <!-- in alternativa {{ post.content | strip_html | truncatewords: 50 }}... -->
                                                 <!-- se la pagina non ha un link esterno -->
+=======
+                        </p>
+                        <!-- se la pagina non ha un link esterno -->
+>>>>>>> paginate
                         {% if post.external_url == null %}
                         <!-- punto a quello e non ci sarà un contenuto del post sul sito -->
                         <a href="{{ post.url }}">Read More...</a>

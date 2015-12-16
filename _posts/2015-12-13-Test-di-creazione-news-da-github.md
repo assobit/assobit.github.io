@@ -6,7 +6,10 @@ ruolo: Presidente AssoB.it
 ---
 Questa è una news creata su github.com senza altri programmi.
 <!-- more -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> paginate
 ## come ho fatto
 
 sono andato nella directory _post del repository del sito su github e ho cliccato su new file.
