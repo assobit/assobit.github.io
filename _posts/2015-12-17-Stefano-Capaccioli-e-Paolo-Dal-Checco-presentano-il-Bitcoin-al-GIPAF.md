@@ -7,3 +7,4 @@ ruolo: Membri AssoB.it attivi nel campo della lotta alle frodi informatiche
 ---
 
 "Cari, oggi ho avuto l'onore di presentare bitcoin al MEF insieme @Forensico. Di seguito l'agenda dei lavori."
+Stefano
