@@ -1,3 +1,8 @@
+- nome: Vincenzo Aguì
+  ruolo: Membro Fondatore
+  descrizione: Esperto di sicurezza informatica e di Bitcoin è sempre la voce fuori dal coro nelle riunioni. E' molto ascoltato perché spesso ha ragione.
+  immagine: /img/vincenzo.agui.jpg
+
 - nome: Ferdinando Ametrano
   ruolo: Presidente dell'Organo di controllo
   descrizione: Grande teorico della moneta si muove a suo agio negli ambienti finanziari e tecnici italiani ed esteri. Coltiva visioni ambiziose che nelle sue mani dventano progetti plausibili.
@@ -22,6 +27,11 @@
   ruolo: Membro Del Comitato Direttivo e Tesoriere
   descrizione: Sempre impegnato a tessere nuove alleanze e disegnare strategie, si muove a suo agio coi politici, coi tecnici, con gli investitori. Tiene anche i cordoni della borsa della società, ragion per cui gli vogliamo tutti molto bene.
   immagine: /img/andrea.medri.jpg
+
+- nome: Lawrence Nahum
+  ruolo: Membro Fondatore
+  descrizione: Molto selettivo nelle sue simpatie, conosce il Bitcoin più di sè stesso. Molto difficile coglierlo in fallo. conviene tacere e ascoltare.
+  immagine: /img/lawrence.nahum.jpeg
 
 - nome: Giacomo Zucco
   ruolo: Vicepresidente
