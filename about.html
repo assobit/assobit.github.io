@@ -106,13 +106,24 @@ bgimg: img/about-bg.jpg
   <div class="row">
     <!-- i dati sono in _data/members.yml -->
     <div class="text-center">
+      {% assign loopindex = 0 %}
       {% for member in site.data.members %}
-      <div class="col-lg-3 col-lg-offset-0 col-md-4" style="margin-top:20px">
-        <img src="{{ member.immagine }}" height="60px" width="60px" />
-        <div class="credit">{{ member.nome }}</div>
-        <div class="credit">{{ member.ruolo }} </div>
-        <div>{{ member.descrizione }} </div>
-      </div>
+        {% assign loopindex = loopindex | plus: 1 %}
+        {% assign rowfinder3 = loopindex | modulo: 3 %}
+        {% assign rowfinder4 = loopindex | modulo: 4 %}
+        <div class="col-lg-3 col-lg-offset-0 col-md-4" style="margin-top:20px">
+          <img src="{{ member.immagine }}" height="60px" width="60px" />
+          <div class="credit">{{ member.nome }}</div>
+          <div class="credit">{{ member.ruolo }}</div>
+          <div>{{ member.descrizione }} </div>
+        </div>
+        {% if rowfinder3 == 0 %}
+          <div class="clearfix visible-md"></div>
+        {% endif %}
+        {% if rowfinder4 == 0 %}
+          <div class="clearfix visible-lg"></div>
+        {% endif %}
+
       {% endfor %}
     </div>
   </div>
