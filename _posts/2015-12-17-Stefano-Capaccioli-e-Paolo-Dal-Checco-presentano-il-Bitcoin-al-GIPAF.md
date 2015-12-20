@@ -1,6 +1,6 @@
 ---
 layout: post
-external_url: http://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/antifrode_mezzi_pagamento/antifrode_mezzi_pagamento/Agenda_GIPAF_17dicembre_2015.pdf
+external_url: https://coinlexit.wordpress.com/2015/12/20/lavori-del-gipaf-mef-del-17-12-2015/
 img: /img/IMG_2015-12-17.jpg
 membro: Stefano Capaccioli e Paolo Dal Checco
 ruolo: Membri AssoB.it attivi nel campo della lotta alle frodi informatiche
