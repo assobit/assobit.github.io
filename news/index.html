@@ -27,6 +27,12 @@ sub-title: l'opera dei membri dell'associazione
                           {% endif %}
                       <div class="credit">{{ post.membro }} - {{ post.ruolo }}</div>
                       <div class="date-post">{{ post.date | date_to_string }}</div>
+                      <div>
+                      <a href="https://github.com/assobit/assobit.github.io/edit/master/{{ post.path }}">
+                          <i class="fa fa-pencil"></i>
+                           &nbsp;Improve this post
+                      </a>
+                      </div>
                       <hr>
                   </article>
 
