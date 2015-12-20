@@ -8,6 +8,10 @@ sub-title: l'opera dei membri dell'associazione
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <a href="https://github.com/assobit/assobit.github.io/new/master/_posts?filename=AAAA-MM-GG-Titolo-del-post.md&value=---%0Dlayout:%20post%0Dexternal_url:%20URL%20esterno%0Dmembro:%20di%20chi%20si%20parla%0Druolo:%20Membro%20fondatore%20AssoB.it%0D---">
+              <i class="fa fa-pencil"></i>
+               &nbsp;Proponi una news
+          </a>
               {% for post in paginator.posts %}
                   <article class="post-preview">
                   {% if post.img != null %}
@@ -30,7 +34,7 @@ sub-title: l'opera dei membri dell'associazione
                       <div>
                       <a href="https://github.com/assobit/assobit.github.io/edit/master/{{ post.path }}">
                           <i class="fa fa-pencil"></i>
-                           &nbsp;Improve this post
+                           &nbsp;Migliora questo post
                       </a>
                       </div>
                       <hr>
