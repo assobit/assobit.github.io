@@ -7,7 +7,7 @@ ruolo: Membri Assob.it
 
 La call su hangout coordinata dal Vicepresidente Giacomo Zucco ha avuto 
 Questa settimana alcuni argomenti interessanti
-<!--- more -->
+<!-- more -->
 
 ## Partecipanti
 
