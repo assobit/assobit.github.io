@@ -5,8 +5,9 @@ ruolo: Membri Assob.it
 ---
 # La call settimanale del 22/12/2015
 
-La call su hangout coordinata dal Vicepresidente Giacomo Zucco ha avuto 
+La call su hangout coordinata dal Vicepresidente Giacomo Zucco ha avuto
 Questa settimana alcuni argomenti interessanti
+<!-- more -->
 
 ## Partecipanti
 
@@ -42,7 +43,7 @@ meet up.
 
 Il presidente ha esposto lo stato di avanzamento dei lavori e chiesto un
 coinvolgimento sul sito in quanto concepito per la collaborazione.
-Hanno tutti condiviso il principio e promesso un maggiore coinvolgimento e 
+Hanno tutti condiviso il principio e promesso un maggiore coinvolgimento e
 contributoi fattivo non appena le numerose attività in corso lo permetteranno.
 
 Il go-live potrebbe avvenire tramite "ACK" su github ma potrebbe essere invece
@@ -53,26 +54,26 @@ se fosse ben accetto il fatto di poter compilare il modulo on line.
 
 ### Permissioned Blockchains
 
-Una domanda di un membro su R3 ha suscitato una discussione esplicativa 
-sull'attività di R3 e di DAH nel campo degli "shared ledgers" e sulle 
+Una domanda di un membro su R3 ha suscitato una discussione esplicativa
+sull'attività di R3 e di DAH nel campo degli "shared ledgers" e sulle
 blockchains "addomesticate".
 Gli associati sono in generale convinti che non hanno un vasto nè semplice
-campo di utilizzo e tradiscono almeno in parte molte delle promesse della 
+campo di utilizzo e tradiscono almeno in parte molte delle promesse della
 blockchain pubblica. Alcuni puntualizzano comunque che in ambito privato
 possano avere alcune efficaci applicazioni specifiche.
 
 ### DAO
 
 Le decentralized Autonomous Organizations hanno avuto uno spazio grazie anche
-all'interessamento di Giorgio Mazzoli e alla presenza concomitante nella chat 
+all'interessamento di Giorgio Mazzoli e alla presenza concomitante nella chat
 Telegram di Thomas Bertani, Vincenzo Aguì, Stefano Pepe e Guido Baroncini
-Turricchia. Si era sviluppata in quella sede la possibilità che qualcosa 
-potesse avvenire sopratutto nel campo dell'identificazione digitale grazie 
+Turricchia. Si era sviluppata in quella sede la possibilità che qualcosa
+potesse avvenire sopratutto nel campo dell'identificazione digitale grazie
 alle teorie di Giorgio e ai devices di Stefano.
 
 Durante la chat si è deciso di continuare a discuterne per tenere l'argomento
 caldo. Ivan Vaghi che era stato posto a capo del progetto DAO ha fatto sapere
-tramite Giacomo Zucco di non riuscire più a seguirlo come desidererebbe e 
+tramite Giacomo Zucco di non riuscire più a seguirlo come desidererebbe e
 e questi ha chiesto se qualcuno di noi vuole raccogliere il testimone.
 Dato l'ambizione del progetto e la scarsità del tempo a disposizione dei
 membri si è deciso di mantenere calda la discussione ma di congelare le
@@ -85,5 +86,3 @@ Il Presidente e il Vicepresidente si sono resi disponibili a recarsi nelle sedi
 per accellerare e stimolare il processo burocratico. Sarà per tutti ovviamente
 un'ottima occasione per conoscersi e per parlare dell'associazione e delle
 tecnologie blockchain.
-  
- 
