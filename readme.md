@@ -44,13 +44,15 @@ fare le modifiche e poi aggiornare la propria copia su github del repository
 * quando una modifica è pronta per essere sottoposta ai "committers" si [apre una pull request sul proprio repository forkato](https://help.github.com/articles/using-pull-requests/) di github. Questo non è altro che un invito ai committers a "tirare dentro" al repository ufficiale le modifiche su cui abbiamo lavorato.
 
 ### Per vedere i risultati del proprio lavoro in locale è necessario installare github-pages come "gemma" in Ruby
-  gem install github-pages
-costruire l'ambiente per jekyll dentro al sito:
-  jekyll new ilNomeDelRepository # va invocato dalla directory padre
-  cd myblog
-  jekyll serve --watch
 
-Il primo comando può essere sostituito da jekyll new . se lanciato dentro al repository.
+[Qui le istruzioni ufficiali](https://help.github.com/articles/using-jekyll-with-pages/)
+
+
+   gem install bundler
+   cd assobit.github.io
+   bundle install # il Gemfile corretto è già nel repository
+	 bundle exec jekyll serve --baseurl ''
+
 
 Poi dovete andare con un browser alla pagina 127.0.0.1:4000
 
