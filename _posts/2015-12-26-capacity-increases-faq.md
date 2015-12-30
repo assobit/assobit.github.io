@@ -16,10 +16,11 @@ breadcrumbs:
 ---
 # Domande frequenti sugli aumenti di capacità
 
-Questo documento, tradotto per il sito bitcoin.org da Gabriele Domenichini,
-rappresenta uno sforzo di AssoB.it per informare sulla direzione di sviluppo
-scelta da Bitcoin Core per permettere alla rete una crescita al passo con
-l'adozione.
+Questo documento è la traduzione (in corso di esame ed approvazione) delle FAQ
+sugli incrementi di capacità per il sito bitcoin.org da parte di
+Gabriele Domenichini e rappresenta uno sforzo diAssoB.it per informare
+sulla direzione di sviluppo scelta da Bitcoin Core per permettere alla rete una
+crescita organica del sistema.
 <!-- more -->
 
 1. Indice
