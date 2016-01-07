@@ -11,7 +11,7 @@ excerpt_separator: "<!-- more -->"
 twitter_username: jekyllrb
 github_username:  jekyll
 github: "http://github.com/assobit/assobit.github.io"
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 paginate: 3
 paginate_path: "/news/page:num/"
 
