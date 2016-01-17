@@ -25,13 +25,12 @@ sub-title: l'opera dei membri dell'associazione
                   <h2 class="post-title">{{ post.title }}</h2>
                       <p>
                         {{ post.content | split: '<!-- more -->' | first }}
-                      </p>
                         <!-- se la pagina non ha un link esterno -->
                         {% if post.external_url == null %}
                         <!-- punto a quello e non ci sarà un contenuto del post sul sito -->
-                      <a href="{{ post.url }}">Read More...</a>
+                      <a href="{{ post.url }}" >Read More...</a>
                           {% else %}
-                      <a href="{{ post.external_url }}">Read More... (sito esterno)</a>
+                      <a href="{{ post.external_url }}">Read More... <i class="fa fa-external-link"></i></a>
                           {% endif %}
                       <div class="credit">{{ post.membro }} - {{ post.ruolo }}</div>
                       <div class="date-post">{{ post.date | date_to_string }}</div>
@@ -41,6 +40,7 @@ sub-title: l'opera dei membri dell'associazione
                            &nbsp;Migliora questo post
                       </a>
                       </div>
+                      </p>
                       <hr>
                   </article>
 

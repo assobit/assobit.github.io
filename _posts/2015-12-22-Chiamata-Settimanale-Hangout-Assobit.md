@@ -3,7 +3,7 @@ layout: post
 membro: assob.it
 ruolo: Membri Assob.it
 ---
-# La call settimanale del 22/12/2015
+
 
 La call su hangout coordinata dal Vicepresidente Giacomo Zucco ha avuto
 Questa settimana alcuni argomenti interessanti
