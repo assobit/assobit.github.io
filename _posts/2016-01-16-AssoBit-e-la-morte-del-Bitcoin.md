@@ -33,7 +33,7 @@ conflitti nell'umanità.
 Nel disegno originario del Bitcoin c'erano molte promesse. La maggior parte di queste si sono rivelate mancate dopo 7
 anni di utilizzo e si discute molto se non fossero troppo ambiziose sin dall'inizio o se non siano state fraintese.
 
-Il bitcoin in origine secondo gran parte della comunità prometteva transazioni istantanee e gratuite per tutti e il
+Il Bitcoin in origine secondo gran parte della comunità prometteva transazioni istantanee e gratuite per tutti e il
 superamento dell'economia attuale basata sui governi centrali e sulle grandi istituzioni finanziarie teoricamente
 controllate dai primi. Con il tempo e l'esperienza questa visione è stata molto ridimensionata e la prova dei fatti
 ha costretto i sostenitori del progetto a ragionare sui compromessi e su quella che dovesse essere la parte del
@@ -78,15 +78,15 @@ un giudizio che è in linea con le sue idee ed è in parte in linea con le idee 
 lavorare quindi mi sembra una scelta ovvia e coerente per lui.
 
 Non possiamo scordare che R3CEV si pone come l'azienda che è formata dagli istituti di credito più importanti
-del mondo che hanno deciso di unirsi per indagare **ciò che di buono vedono nel progetto bitcoin cioé il *registro
+del mondo che hanno deciso di unirsi per indagare **ciò che di buono vedono nel progetto Bitcoin cioé il *registro
 contabile condiviso* scartando ciò a cui sono contrari cioè la valuta digitale resistente ad ogni tipo di controllo
 politico o economico**.
 
-Il tema della fungibilità e dell'indipendenza del bitcoin dai "poteri forti" era stato già affrontato da Mike quando
+Il tema della fungibilità e dell'indipendenza del Bitcoin dai "poteri forti" era stato già affrontato da Mike quando
 due anni fa si era messo alla guida di un movimento che voleva "marchiare a fuoco" alcune transazioni e quindi
-alcuni bitcoin derivanti da attività illecite per permettere alle autorità di limitarne o impedirne la circolazione.
+alcuni Bitcoin derivanti da attività illecite per permettere alle autorità di limitarne o impedirne la circolazione.
 Com'è intuibile questo era assolutamente contrario alla fungibilità della moneta e metteva in dubbio il supposto
-disegno originario del bitcoin come esente da censure o da controlli governativi. Era evidente fin da allora che
+disegno originario del Bitcoin come esente da censure o da controlli governativi. Era evidente fin da allora che
 lui aveva idee precise sulla direzione in cui il progetto doveva andare e non era quello della fungibilità a tutti
 i costi.
 
@@ -104,22 +104,22 @@ Bitcoin Unlimited) ma la defezione di Mr. Hearn ha molto indebolito il "reparto 
 che già contava solo su di lui e su Gavin Andreseen come forza di sviluppo.
 
 Certo la vittoria di questa fazione avrebbe messo a rischio secondo molti l'unità della rete perchè il cambio
-di software proposto da loro avrebbe rischiato di creare 2 reti bitcoin con conseguenze difficili da immaginare ma
+di software proposto da loro avrebbe rischiato di creare 2 reti Bitcoin con conseguenze difficili da immaginare ma
 molto inquietanti sulla ricevibilità delle transazioni.
 
 La fazione per la "fungibilità" è invece per una approccio più complesso ma molto più cauto e graduale che porti
 il Bitcoin a diventare una struttura di compensazione di  reti di pagamento che agiscono al di fuori della
-Blockchain (il libro contabile di tutte le transazioni bitcoin) e che usano questa come meccanismo di compensazione
+Blockchain (il libro contabile di tutte le transazioni Bitcoin) e che usano questa come meccanismo di compensazione
 o trasferimento fondi tra una rete e l'altra. Nel frattempo hanno disegnato un percorso di sviluppo di breve
 periodo che dovrebbe permettere un aumento della capacità transattiva del 60% circa senza grossi scossoni a livello
 tecnico.
 
-Molto sta ancora succedendo e, per parafrasare Mark Twain, riteniamo che la notizia sulla morte del Bitcoin è
-[ancora una volta](https://99bitcoins.com/bitcoinobituaries/) fortemente esagerata.
+Molto sta ancora succedendo e, per parafrasare Mark Twain, riteniamo che la notizia sulla morte del <i class="fa fa-btc"/>itcoin è
+[ancora una volta](https://99Bitcoins.com/Bitcoinobituaries/) fortemente esagerata.
 
 Gabriele Domenichini
 
 Presidente AssoB.it
 
-*Le opinioni espresse in questo articolo sono le mie e non ecessariamente riflettono quelle degli altri membri
+*Le opinioni espresse in questo articolo sono le mie e non necessariamente riflettono quelle degli altri membri
 dell'associazione. Ho interessi in aziende coinvolte in questa vicenda.*
