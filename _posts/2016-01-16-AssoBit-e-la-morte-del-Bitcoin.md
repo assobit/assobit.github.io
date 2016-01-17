@@ -10,7 +10,7 @@ Mike Hearn ha pubblicato un lungo articolo annunciando la fine dell'esperimento 
 ## Chi é Mike Hearn
 
 Mike Hearn è un ex architetto software di Google da 5 anni appassionato di Bitcoin. Ha abbandonato l'azienda di
-Mountain View da un anno e oggi lavora presso R3 CEV, un cosorzio delle più importanti istituzioni finanziarie
+Mountain View da un anno e oggi lavora presso R3 CEV, un consorzio delle più importanti istituzioni finanziarie
 del mondo che sta cercando di disegnare un futuro per i cosiddetti "registri contabili condivisi" che promettono
 di dare conferma istantanea alle transazioni sui mercati finanziari.
 Ha scritto alcuni software e parlato in molte sedi sull'argomento Bitcoin.
