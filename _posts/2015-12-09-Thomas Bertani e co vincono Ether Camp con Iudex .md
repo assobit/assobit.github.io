@@ -2,7 +2,7 @@
 layout: post
 membro: Thomas Bertani
 img: /img/thomas.jpg
-titolo: Thomas bertani e co vincono ether camp con iudex
+title: Thomas bertani e co vincono ether camp con iudex
 ruolo: Membro Fondatore
 ---       
 Secondo Thomas Bertani "[Iudex &egrave;] "bitrated" decentralizzato.
