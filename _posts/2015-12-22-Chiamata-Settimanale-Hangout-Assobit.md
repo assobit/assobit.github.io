@@ -1,6 +1,7 @@
 ---
 layout: post
 membro: assob.it
+titolo: Chiamata Settimanale Hangout Assobit
 ruolo: Membri Assob.it
 ---
 

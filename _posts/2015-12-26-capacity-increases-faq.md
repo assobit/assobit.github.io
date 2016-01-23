@@ -5,7 +5,7 @@
 layout: post
 lang: it
 external_url: https://bitcoincore.org/it/2015/12/23/capacity-increases-faq/
-title: FAQ sugli Aumenti di capacità  — Bitcoin Core
+titolo: FAQ sugli Aumenti di capacità  — Bitcoin Core
 membro: Gabriele Domenichini
 ruolo: Presidente AssoB.it
 ---
