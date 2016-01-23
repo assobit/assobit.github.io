@@ -22,7 +22,7 @@ sub-title: l'opera dei membri dell'associazione
                   {% else %}
                   <img width="300" height="200" src="../img/chain-257492_1280.jpg" alt="Immagine di default" style="float:right; margin:15px" alt="Untitled design">
                   {% endif %}
-                  <h2 class="post-title">{{ post.title }}</h2>
+                  <h2 class="post-title"><a href="{{ post.external_url }}">{{ post.title }}</a></h2>
                       <p>
                         {{ post.content | split: '<!-- more -->' | first }}
                         <!-- se la pagina non ha un link esterno -->
