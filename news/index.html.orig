@@ -20,13 +20,17 @@ sub-title: l'opera dei membri dell'associazione
                   {% if post.img != null %}
                     <img width="300" height="200" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design">
                   {% else %}
-                  <img width="300" height="200" src="/img/chain-257492_1280.jpg" alt="Immagine di default" style="float:right; margin:15px" alt="Untitled design">
+                  <img width="300" height="200" src="../img/chain-257492_1280.jpg" alt="Immagine di default" style="float:right; margin:15px" alt="Untitled design">
                   {% endif %}
+<<<<<<< HEAD
                   {% if post.external_url == null %}
                   <a href="{{ post.url }}"><h2 class="post-title">{{ post.titolo }}</h2></a>
                   {% else %}
                   <a href="{{ post.external_url }}"><h2 class="post-title">{{ post.titolo }}</h2><i class="fa fa-external-link"></i></a>
                   {% endif %}
+=======
+                  <h2 class="post-title">{{ post.title }}</h2>
+>>>>>>> 35f2cce70f914d0f9451d3bd64932ee21790f432
                       <p>
                         {{ post.content | split: '<!-- more -->' | first }}
                         <!-- se la pagina non ha un link esterno -->

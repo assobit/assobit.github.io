@@ -1,7 +1,7 @@
 ---
 layout: post
 external_url: https://www.che-fare.com/i-bitcoin-e-lascesa-della-criptofinanza/
-titolo: I bitcoin e l’ascesa della criptofinanza
+title: I bitcoin e l’ascesa della criptofinanza
 img: /img//Untitled-design-7.jpg
 membro: Raffaele Mauro
 ruolo: Responsabile dei rapporti con le istituzioni Finanziarie
