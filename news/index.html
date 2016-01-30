@@ -7,72 +7,72 @@ sub-title: l'opera dei membri dell'associazione
 ---
 
 <div class="container">
-    <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          <a href="https://github.com/assobit/assobit.github.io/new/master/_post/&?filename={{ site.time | "%F-%T" }}.md&value=---%0Dlayout:%20post%0Dtitle:%20Titolo%20del%20post%0Dmembro:%20di%20chi%20si%20parla%0Druolo:%20Membro%20fondatore%20AssoB.it%0D---%0DScrivere%20qui%20il%20summary%20oppure%20il%20post%20in%20markdown">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <a href="https://github.com/assobit/assobit.github.io/new/master/_post/&?filename={{ site.time | "%F-%T" }}.md&value=---%0Dlayout:%20post%0Dtitle:%20Titolo%20del%20post%0Dmembro:%20di%20chi%20si%20parla%0Druolo:%20Membro%20fondatore%20AssoB.it%0D---%0DScrivere%20qui%20il%20summary%20oppure%20il%20post%20in%20markdown">
+        <i class="fa fa-pencil"></i>
+        &nbsp;Proponi una news
+      </a> o
+      <a href="https://github.com/assobit/assobit.github.io/new/master/_posts/&?filename={{ site.time | "%F-%T" }}-Titolo-del-post.md&value=---%0Dlayout:%20post%0Dexternal_url:%20URL%20esterno%0Dtitle:%20Titolo%20del%20post%0Dmembro:%20di%20chi%20si%20parla%0Druolo:%20Membro%20AssoB.it%0D---%0DScrivere%20qui%20il%20summary%20oppure%20il%20post%20in%20markdown">
+        inserisci un link {{ ciao }}
+      </a>
+      {% for post in paginator.posts %}
+      <article class="post-preview">
+        {% if post.img != null %}
+        <img width="300" height="200" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design">
+        {% else %}
+        <img width="300" height="200" src="/img/chain-257492_1280.jpg" alt="Immagine di default" style="float:right; margin:15px" alt="Untitled design">
+        {% endif %}
+        {% if post.external_url == null %}
+        {% assign link = post.url %}
+        {% assign external = '' %}
+        {% else %}
+        {% assign link = post.external_url %}
+        {% assign external = '<i class="fa fa-external-link"></i>' %}
+        {% endif %}
+        <a href="{{ link }}"><h2 class="post-title">{{ post.title }}</h2>{{ external }}</a>
+        <p>
+          {{ post.content | split: '<!-- more -->' | first }}
+          <!-- se la pagina non ha un link esterno -->
+          <a href="{{ link }}">Read More... {{ external }}</a>
+          <div class="credit">{{ post.membro }} - {{ post.ruolo }}</div>
+          <div class="date-post">{{ post.date | date_to_string }}</div>
+          <div>
+            <a href="https://github.com/assobit/assobit.github.io/edit/master/{{ post.path }}">
               <i class="fa fa-pencil"></i>
-               &nbsp;Proponi una news
-          </a> o
-          <a href="https://github.com/assobit/assobit.github.io/new/master/_posts/&?filename={{ site.time | "%F-%T" }}-Titolo-del-post.md&value=---%0Dlayout:%20post%0Dexternal_url:%20URL%20esterno%0Dtitle:%20Titolo%20del%20post%0Dmembro:%20di%20chi%20si%20parla%0Druolo:%20Membro%20AssoB.it%0D---%0DScrivere%20qui%20il%20summary%20oppure%20il%20post%20in%20markdown">
-            inserisci un link {{ ciao }}
-          </a>
-              {% for post in paginator.posts %}
-                  <article class="post-preview">
-                  {% if post.img != null %}
-                    <img width="300" height="200" src="{{ post.img }}"   style="float:right; margin:15px" alt="Untitled design">
-                    {% else %}
-                    <img width="300" height="200" src="/img/chain-257492_1280.jpg" alt="Immagine di default" style="float:right; margin:15px" alt="Untitled design">
-                  {% endif %}
-                  {% if post.external_url == null %}
-                    {% assign link = post.url %}
-                    {% assign external = '' %}
-                  {% else %}
-                    {% assign link = post.external_url %}
-                    {% assign external = '<i class="fa fa-external-link"></i>' %}
-                  {% endif %}
-                  <a href="{{ link }}"><h2 class="post-title">{{ post.title }}</h2>{{ external }}</a>
-                      <p>
-                        {{ post.content | split: '<!-- more -->' | first }}
-                        <!-- se la pagina non ha un link esterno -->
-                      <a href="{{ link }}">Read More... {{ external }}</a>
-                      <div class="credit">{{ post.membro }} - {{ post.ruolo }}</div>
-                      <div class="date-post">{{ post.date | date_to_string }}</div>
-                      <div>
-                      <a href="https://github.com/assobit/assobit.github.io/edit/master/{{ post.path }}">
-                          <i class="fa fa-pencil"></i>
-                           &nbsp;Migliora questo post
-                      </a>
-                      </div>
-                      </p>
-                      <hr>
-                  </article>
+              &nbsp;Migliora questo post
+            </a>
+          </div>
+        </p>
+        <hr>
+      </article>
 
-              {% endfor %}
+      {% endfor %}
 
-                    {% if paginator.total_pages > 1 %}
-                    <div class="pagination">
-                      {% if paginator.previous_page %}
-                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-                      {% else %}
-                        <span>&laquo; Prev</span>
-                      {% endif %}
+      {% if paginator.total_pages > 1 %}
+      <div class="pagination">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        {% else %}
+        <span>&laquo; Prev</span>
+        {% endif %}
 
-                      {% for page in (1..paginator.total_pages) %}
-                        {% if page == paginator.page %}
-                          <em>{{ page }}</em>
-                        {% elsif page == 1 %}
-                          <a href="{{ '/news/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-                        {% else %}
-                          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-                        {% endif %}
-                      {% endfor %}
-                      {% if paginator.next_page %}
-                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-                      {% else %}
-                        <span>Next &raquo;</span>
-                      {% endif %}
-                    </div>
-                    {% endif %}
-            </div>
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <em>{{ page }}</em>
+        {% elsif page == 1 %}
+        <a href="{{ '/news/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+        {% endfor %}
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+        {% else %}
+        <span>Next &raquo;</span>
+        {% endif %}
       </div>
+      {% endif %}
+    </div>
+  </div>
 </div>
