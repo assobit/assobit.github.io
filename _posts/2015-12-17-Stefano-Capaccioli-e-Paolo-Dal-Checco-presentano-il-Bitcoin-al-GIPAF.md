@@ -4,6 +4,7 @@ external_url: https://coinlexit.wordpress.com/2015/12/20/lavori-del-gipaf-mef-de
 title: Stefano Capaccioli E Paolo Dal Checco Presentano Il Bitcoin Al Gipaf
 img: /img/IMG_2015-12-17.jpg
 membro: Stefano Capaccioli e Paolo Dal Checco
+tags: ['legal', 'frauds']
 ruolo: Membri AssoB.it attivi nel campo della lotta alle frodi informatiche
 ---
 

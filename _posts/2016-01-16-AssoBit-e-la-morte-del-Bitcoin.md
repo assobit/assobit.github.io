@@ -3,6 +3,7 @@ layout: post
 membro: Gabriele Domenichini
 ruolo: Presidente AssoB.it
 title: Assobit E La Morte Del Bitcoin
+tags: ['legal']
 img: http://i.imgur.com/LUsnqcs.jpg
 ---
 Mike Hearn ha pubblicato un lungo articolo annunciando la fine dell'esperimento Bitcoin.
