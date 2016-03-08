@@ -8,7 +8,9 @@ ruolo: Membro Consiglio Direttivo  AssoB.it
 ---
 [//]: # "Scrivere qui  sotto un summary del post"
 Rendiconto dell'Associazione ASSOB.it comprensiva di Nota al 31.12.2015
+
 <-- more -->
+
 [//]: # "Scrivere qui  sotto il post in markdown"
 # ASSOCIAZIONE DELLE IMPRESE ATTIVE NELLA TECNOLOGIE BLOCKCHAIN IN ITALIA
 *ASSOB.IT 
