@@ -1,7 +1,4 @@
 ---
-# This file is licensed under the MIT License (MIT) available on
-# http://opensource.org/licenses/MIT.
-
 layout: post
 lang: it
 external_url: https://bitcoincore.org/it/2015/12/23/capacity-increases-faq/

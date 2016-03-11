@@ -2,6 +2,7 @@
 layout: post
 membro: Gabriele Domenichini
 ruolo: Presidente AssoB.it
+bgimg: /img/post-bg.jpg
 title: Assobit E La Morte Del Bitcoin
 tags: ['legal']
 img: http://i.imgur.com/LUsnqcs.jpg
