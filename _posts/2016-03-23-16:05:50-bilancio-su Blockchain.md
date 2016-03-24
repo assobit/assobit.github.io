@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Data Certa del Bilancio AssoB.it su Blockchain
+title: Bilancio Partecipativo e Data Certa del Bilancio AssoB.it su Blockchain
 img: /img/averagePrice.png
 bgimg: /img/post-bg.jpg
 membro: Gabriele Domenichini, Stefano Capaccioli e Riccardo Casatta
 ruolo: Membri fondatori AssoB.it
 ---
+
+Il 5 marzo 2016 il Consiglio Direttivo ha pubblicato la bozza di relazione e di Rendiconto sulla parte pubblica del sito Assob.it che è costruito su GitHUB, con possibilità per chiunque di proporre miglioramenti il sistema software di controllo di versione distribuito.
+
+Il Consiglio Direttivo ha poi approvato il Bilancio il data 14 marzo 2015, potendo tenere conto delle modifiche che gli associati potevano proporre.
 
 Il Bilancio e l'annessa Relazione integrativa dell'Associazione sono stati
 "congelati" sulla Blockchain.
@@ -109,7 +113,7 @@ riportate sul sito][verification].
 ## Certificazione dei documenti dell'Associazione.
 
 Il passo successivo consisterà nell'archiviazione del documento anche su
-IPFS per garantire alllo stesso una sede il più decntralizzata e distribuita
+IPFS per garantire allo stesso una sede il più decntralizzata e distribuita
 possibile.
 
 Per il prossimo anno abbiamo intenzione di produrre e certificare il Bilancio e
