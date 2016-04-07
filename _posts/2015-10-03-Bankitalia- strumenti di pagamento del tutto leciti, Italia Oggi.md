@@ -3,6 +3,7 @@ layout: post
 external_url: http://www.compliancenet.it/bitcoin-bankitalia-strumenti-di-pagamento-del-tutto-leciti-italia-oggi-3-febbraio-2015
 title: Bankitalia strumenti di pagamento del tutto leciti, italia oggi
 img: /img/Untitled-design-6.jpg
+bgimg: /img/post-bg.jpg
 membro: Stefano Capaccioli
 ruolo: Responsabile Rapporti con le Autorità Fiscali Assob.it
 ---
