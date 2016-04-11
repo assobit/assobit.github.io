@@ -160,3 +160,24 @@ Questa sintesi è stata redatta senza il contributo di nessuno dei partecipanti 
 [recent-contributors]: https://github.com/bitcoin/bitcoin/graphs/contributors?from=2015-01-01&to=2016-03-21&type=c
 
 [website-issues]: https://github.com/bitcoin-core/bitcoincore.org/issues
+[Gregory Maxwell]: https://github.com/gmaxwell
+[Luke Dashjr]: https://github.com/luke-jr
+[Peter Todd]: https://github.com/petertodd
+[Suhas Daftuar]: https://github.com/sdaftuar
+[Pieter Wuille]: https://github.com/sipa
+[Eric Lombrozo]: https://github.com/codeshark
+[BtcDrak]: https://github.com/btcdrak
+[Cory Fields]: https://github.com/theuni
+[Alex Morcos]: https://github.com/morcos
+[Pavel Janik]: https://github.com/paveljanik
+[Matt Corallo]: https://github.com/TheBlueMatt
+[Eric Voskuil]: https://github.com/evoskuil
+[Jonas Schnelli]: https://github.com/jonasschnelli
+[Warren Togami]: https://github.com/wtogami
+[Wladimir van der Laan]: https://github.com/laanwj
+[Jorge Timon]: https://github.com/jtimon
+[Marco Falke]: https://github.com/MarcoFalke
+[Tom Harding]: https://github.com/dgenr8
+[Patrick Strateman]: https://github.com/pstratem
+[Pavel Janik]: https://github.com/paveljanik
+[Bryan Bishop]: https://github.com/kanzure
