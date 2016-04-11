@@ -8,14 +8,14 @@ ruolo: Membri fondatori AssoB.it
 ---
 
 Il 5 marzo 2016 il Consiglio Direttivo ha pubblicato la bozza di relazione e di Rendiconto sulla parte pubblica del sito Assob.it che è costruito su GitHUB, con possibilità per chiunque di proporre miglioramenti il sistema software di controllo di versione distribuito.
-
+<!-- more -->
 Il Consiglio Direttivo ha poi approvato il Bilancio il data 14 marzo 2015, potendo tenere conto delle modifiche che gli associati potevano proporre.
 
 Il Bilancio e l'annessa Relazione integrativa dell'Associazione sono stati
 "congelati" sulla Blockchain.
 Abbiamo usato il servizio "Notarize" di Eternity Wall per incidere in modo indelebile
 nel pubblico registro mondiale un'"impronta digitale" del documento.
-<!-- more -->
+
 
 ## I concetti
 Qualsiasi documento informatico può produrre un identificativo univoco di sè

@@ -22,8 +22,6 @@ la volatilità non preclude la possibilità che il bitcoin sia e diventi sempre
 di più il collateral di monete di nuova concezione ancorate in qualche modo al
 potere di acquisto (Ametrano).
 
-![i relatori](/img/IMG_20160310_164806.jpg)
-
 Si sono dichiarati tutti scettici sulla possibilità di riusciure a transare on
 chain altri assets che non siano implicitamente creati e gestiti NEL protocollo
 anche perchè tali assets sarebbero in realtà liabilities redimibili presso una
