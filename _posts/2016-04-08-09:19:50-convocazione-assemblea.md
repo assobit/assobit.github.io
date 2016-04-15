@@ -25,16 +25,11 @@ Roma
 1. Approvazione del bilancio 2015
 2. Sulla determinazione della quota di adesione e della quota associativa
 annuale, nonché del termine per il versamento di quest’ultima
-3. sulla nomina e revoca dei membri del Consiglio Direttivo e dell’Organo di Controllo;
-4. sulle questioni sottoposte alla relativa attenzione ad opera del Consiglio
-Direttivo o dell’Organo di Controllo o da almeno un decimo degli Associati;
-Per queste si prega di darne comunicazione al consiglio direttivo e se possibiile
-integreremo il presente documento.
 5. Varie ed evntuali
 
 Attenzione: L’OdG potrà subire variazioni che potrete seguire consultando online questo documento all’indirizzo:
 http://www.assob.it/2016-04-08/09/19/50-convocazione-assemblea.html
-Si pregano i Consiglieri di richiedere variazioni all’OdG entro 15/04/2015 per permettere la tempestiva raccolta di informazioni
+Si pregano i Consiglieri di richiedere variazioni all’OdG entro 20/04/2015 per permettere la tempestiva raccolta di informazioni
 
 I partecipanti che non possono essere presenti avvertano per tempo per consentire la partecipazione a distanza.
 
