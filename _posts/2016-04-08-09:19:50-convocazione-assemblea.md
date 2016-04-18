@@ -22,10 +22,11 @@ Via Giuseppe Andreoli, 9
 Roma
 
 è convocata la Seconda Assemblea Dei Soci con il seguente ordine del giorno:
+
 1. Approvazione del bilancio 2015
 2. Sulla determinazione della quota di adesione e della quota associativa
 annuale, nonché del termine per il versamento di quest’ultima
-5. Varie ed evntuali
+3. Varie ed eventuali
 
 Attenzione: L’OdG potrà subire variazioni che potrete seguire consultando online questo documento all’indirizzo:
 http://www.assob.it/2016-04-08/09/19/50-convocazione-assemblea.html
