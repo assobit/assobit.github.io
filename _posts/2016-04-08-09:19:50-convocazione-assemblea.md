@@ -8,6 +8,7 @@ ruolo:
 ---
 E' Convocata l'Assemblea Generale AssoB.it il 26 Aprile a Roma al Talent Garden.
 <!-- more -->
+
 |   |   |
 |---|---|
 |Data e ora| **26/04/2016 ore 11:00** |
