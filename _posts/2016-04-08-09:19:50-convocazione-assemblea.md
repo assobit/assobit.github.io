@@ -39,7 +39,8 @@ Roma
 1. Approvazione del bilancio 2015
 2. Sulla determinazione della quota di adesione e della quota associativa
 annuale, nonché del termine per il versamento di quest’ultima
-3. Varie ed eventuali
+3. Le comunicazioni dell'associazione verso l'esterno (social, eventuali newsletter, rubriche etc.)
+4. Varie ed eventuali
 
 Attenzione: L’OdG potrà subire variazioni che potrete seguire consultando online questo documento all’indirizzo:
 http://www.assob.it/2016-04-08/09/19/50-convocazione-assemblea.html
@@ -53,3 +54,7 @@ Il Presidente
 Gabriele Domenichini
 
 [talentgarden]: http://roma.talentgarden.org/
+
+
+Propongo un terzo punto per parlare anche delle comunicazioni e dei social dell'associazione.
+Come migliorare la comunicazione dell'associazione verso l'esterno (social, eventuali newsletter, rubriche etc.)
