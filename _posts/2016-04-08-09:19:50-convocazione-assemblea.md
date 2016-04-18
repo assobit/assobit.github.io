@@ -8,8 +8,15 @@ ruolo:
 ---
 E' Convocata l'Assemblea Generale AssoB.it il 26 Aprile a Roma al Talent Garden.
 <!-- more -->
+|   |   |
+|---|---|
+|Data e ora| **26/04/2016 ore 11:00** |
+|Luogo | Talent Garden Roma Via Giuseppe Andreoli, 9, 00195 Roma|
 
-Bologna lì 8/04/2016
+
+
+Bologna lì 8/04/2016,
+
 A tutti i membri dell’associazione Assob.it:
 
 Oggetto: Convocazione dell’Assemblea Dei Soci.
