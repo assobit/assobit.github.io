@@ -1,7 +1,10 @@
 ---
 layout: post
-external_url: https://www.euklid.com
+title: Euklid al Level 49
+bgimg: http://www.level39.co/news-images/2016/01/thumbnail/638x359/new.jpg
 membro: euklid
+ruolo: Membro AssoB.it
+external_url: https://www.euklid.com
 img: https://www.euklid.com//images/euklid_logo.png
 ---
 
