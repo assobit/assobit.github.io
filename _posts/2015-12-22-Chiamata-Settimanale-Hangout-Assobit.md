@@ -1,6 +1,7 @@
 ---
 layout: post
 membro: assob.it
+bgimg: /img/post-bg.jpg
 title: Chiamata Settimanale Hangout Assobit
 ruolo: Membri Assob.it
 ---

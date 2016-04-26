@@ -1,22 +1,39 @@
 ---
-bgimg: /img/post-bg.jpg
 ---
 <!DOCTYPE html>
 <html>
   {% include head.html %}
   <body>
   {% include navbar.html %}
-    {% include header.html %}
+  <header class="intro-header" style="background-image: url({{ page.bgimg }})">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                  <div class="page-heading">
+                    <h1>{{ page.title }}</h1>
+                      <hr class="small">
+                      <span class="subheading">{{ page.sub-title }}</span>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </header>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
                 {{ content }}
-
+                {% if page.external_url %}
+                
+                <div>
+                  <a href="{{ page.external_url }}">{{ page.external_url }}</a> <i class="fa fa-external-link"></i>
+                </div>
+                {% else %}
+                {% endif %}
             </div>
         </div>
     </div>
-    {% include footer.html %}
+  {% include footer.html %}
   </body>
 
 </html>

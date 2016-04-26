@@ -1,6 +1,7 @@
 ---
 layout: post
 membro: Thomas Bertani
+bgimg: /img/post-bg.jpg
 img: /img/thomas.jpg
 title: Thomas bertani e co vincono ether camp con iudex
 ruolo: Membro Fondatore
