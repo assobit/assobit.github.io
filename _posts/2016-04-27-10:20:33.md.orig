@@ -11,13 +11,30 @@ in campo finanziario che stanno appassionando governi e banche di tutto il mondo
 <!-- more -->
 ## Il concetto
 
+<<<<<<< HEAD
+I registri condivisi contengono il chi ha che cosa tra due persone o
+=======
 I registri condivisi contengono il "chi ha che cosa" tra due persone o
+>>>>>>> b47d77dcf9da27877c96f8a807d70455f0408c79
 organizzazioni e documentano i cambiamenti nel tempo di questa situazione.
 Sono scritti da e sotto la responsabilità di più operatori.
 
 ## Come funziona
 Un esempio spiega meglio la cosa e le sue conseguenze.
 
+<<<<<<< HEAD
+Alice ha una mela e Bob ha un euro. Quando se li scambiano oggi Alice scrive
+che ha dato una mela a Bob e ha ricevuto da questo un euro.
+Bob scrive che ha dato un euro ad Alice e che ha ricevuto da questa una mela.
+
+Periodicamente si incontrano e mettono a confronto le loro scritture e
+controllano che tutte le transazioni coincidano cioè che tutte le mele date da
+Alice sul suo registro siano documentate come ricevute dal
+registro di Bob e che tutti gli euro che Bob ha scritto come pagati ad Alice
+sul suo registro compaiano sul registro di Alice come incassati.
+
+Questo processo è detto **riconciliazione.**
+=======
 Alice ha una mela e Bob ha un euro. Nella situazione attuale ognuno ha un
 suo registro dove registra cosa succede alle mele e ai soldi.
 Quando se li scambiano Alice scrive nel suo registro che ha dato una mela
@@ -35,17 +52,24 @@ registrazioni in questi casi appaiono speculari l'una guardata su un registro
 
 Questo processo di controllo incrociato delle scritture è detto
 **riconciliazione.**
+>>>>>>> b47d77dcf9da27877c96f8a807d70455f0408c79
 
 ### La Riconciliazione
 La riconciliazione tra due registri è molto semplice ma si complica molto
 
 * Se non ci sono solo compravendite ma altri tipi di contratti
 * Se ci sono molti operatori interessati alla transazione
+<<<<<<< HEAD
+
+Può esistere un mercato delle mele in cui molti operatori si scambiano mele e
+che tenga il registro globale delle transazioni. In questo caso i registri da
+=======
 * si vogliono registrare su uno stesso registro transazioni di più soggetti
 
 Può esistere un mercato delle mele in cui molti operatori si scambiano mele e
 le autorità che regolano questo mercato possono voler tenere il registro
 globale delle transazioni. In questo caso i registri da
+>>>>>>> b47d77dcf9da27877c96f8a807d70455f0408c79
 riconciliare sono tre: il registro del venditore, del compratore e
 quello globale del mercato.
 
