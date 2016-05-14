@@ -53,7 +53,7 @@ sapevo di avere lacune, spiegati con la semplicità e la fluidità che solo
 Andreas in questo campo è in grado di esprimere. Le sue doti di comunicatore
 portate nella didattica rendono la lezione divertente e mai banale.
 
-![Prof. Antonopulos](/img/profantonopulos.jpg)
+<img src="/img/profantonopulos.jpg" width="400" height="300"/>
 
 Unico appunto personale penso che le lighning networs e sopratutto i payment
 channels bidirezionali avrebbero meritato qualche minuto (forse qualche giorno) aggiuntivo.
