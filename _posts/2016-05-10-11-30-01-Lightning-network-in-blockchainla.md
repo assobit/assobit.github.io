@@ -39,3 +39,15 @@ Un consiglio per tutti:
 
 "Se dovessi pensare uno strumento che devo usare per rimanere aggiornato questo sarebbe IRC. Non sarei
 Arrivato al livello che ho raggiunto senza l'aiuto e l'ispirazione raccolta su IRC nei canali, #bitcoin-dev, #bitcoin-core-dev e #bitcoin-wizards".
+
+Il saluto di Joseph alla comunità di Milano è un qualcosa che siamo contenti di riportare:
+
+"YES AGREED 100%!!! It was an absolute pleasure meeting y'all.
+
+It was an amazing group of people. I'd like to reiterate that the team
+that y'all have built has been a community whose level of organization
+and progress/development of expertise I've only seen in all my travels
+to the bitcoin/blockchain community worldwide matched by the MIT Media
+Lab. I was amazed by the education within the industry in Milano -- it's
+far superior to the level of understanding with financial institutions
+within the U.S."
