@@ -3,12 +3,12 @@ layout: post
 membro: Gabriele Domenichini
 bgimg: /img/post-bg.jpg
 img: /img/andreas-a-milano.jpg
-title: Andreas Antonopulos a Milano
+title: Andreas Antonopoulos a Milano
 ruolo: Presidente di assob.it
 ---
 
 Milano 9 11 maggio 2016,
-Blockchainlab e Deloitte hanno ospitato Andreas Antonopulos a Milano l'11
+Blockchainlab e Deloitte hanno ospitato Andreas Antonopoulos a Milano l'11
 e il 12 di Maggio. Andreas è stato vulcanico e instancabile come al solito.
 Un piccolo resoconto delle giornate.
 
@@ -27,16 +27,7 @@ evolutivo e tutti i presenti sanno quali sono i prossimi avvenimenti. Detta con
 le sue parole:"ci hanno dovuto spiegare cosa sono le cryptocurrencies e noi dovremo spiegarlo ai nostri figli ma loro non dovranno spiegarlo ai loro figli."
 
 Dopo la lezione Andreas si è trattenuto per domande e risposte e per la firma
-del suo libro a cui lui teneva particolarmente.
-
-Serata finita?
-
-No. La sessione di domande, risposte e discussioni si è trasferita fuori per i
-fumatori ed è andata avanti ad oltranza su temi più particolari riguardanti la
-comunità degli utenti le regole di vita che Andreas ha scelto per sè: tre
-passaporti, il tentativo di prenderne un quarto, la protezione della sua
-privacy, la sua vita in AirB&B e la sua decisione di abbandono graduiale di
-una residenza stabile.
+del suo libro.
 
 Quando esausto sono andato a letto dopo mezzanotte, Copernico (sede dell'avvenimento) era chiuso e spento. Solo tre persone davanti all'uscita a parlare.
 
@@ -73,10 +64,10 @@ si scordò di chiedere il permesso".
 
 C'erano molti ospiti internazionali tra cui il London Stock exchange e il
 consorzio R3CEV. Per l'Italia era tra gli altri presente
-Banca d'Italia, Unicredit, Intesa, Banca Sella, Blockchainlab e AssoB.it
+Banca d'Italia, Unicredit, Intesa, Banca Sella, Blockchainlab e AssoB.It
 di cui Deloitte Italia fa parte.
 
-Andreas ha pungolato tutti i panels e assistito anche all'ultimo in cui io rappresentavo Assob.it (che si è tenuto in italiano).
+Andreas ha pungolato tutti i panels e assistito anche all'ultimo in cui io rappresentavo Assob.It (che si è tenuto in italiano).
 
 Alla fine Paolo Gianturco il responsabile della divisione Blockchain per
 Deloitte Italia ha chiuso con un discorso e dei concetti molto forti.
