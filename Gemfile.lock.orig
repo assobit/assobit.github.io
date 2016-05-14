@@ -20,7 +20,12 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
     gemoji (2.1.0)
+<<<<<<< HEAD
+    github-pages (76)
+      RedCloth (= 4.2.9)
+=======
     github-pages (78)
+>>>>>>> 83a4cff65579c7198e6fe5f5b1059af90fa14a61
       github-pages-health-check (= 1.1.0)
       jekyll (= 3.0.5)
       jekyll-coffeescript (= 1.0.1)
@@ -31,7 +36,11 @@ GEM
       jekyll-paginate (= 1.1.0)
       jekyll-redirect-from (= 0.10.0)
       jekyll-sass-converter (= 1.3.0)
+<<<<<<< HEAD
+      jekyll-seo-tag (= 1.3.3)
+=======
       jekyll-seo-tag (= 1.4.0)
+>>>>>>> 83a4cff65579c7198e6fe5f5b1059af90fa14a61
       jekyll-sitemap (= 0.10.0)
       jemoji (= 0.6.2)
       kramdown (= 1.10.0)
@@ -74,9 +83,17 @@ GEM
       jekyll (>= 2.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
+<<<<<<< HEAD
+    jekyll-seo-tag (1.3.3)
+      jekyll (~> 3.0)
+    jekyll-sitemap (0.10.0)
+    jekyll-textile-converter (0.1.0)
+      RedCloth (~> 4.0)
+=======
     jekyll-seo-tag (1.4.0)
       jekyll (~> 3.0)
     jekyll-sitemap (0.10.0)
+>>>>>>> 83a4cff65579c7198e6fe5f5b1059af90fa14a61
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
     jemoji (0.6.2)
@@ -119,7 +136,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
+  github-pages (= 76)
+=======
   github-pages (= 78)
+>>>>>>> 83a4cff65579c7198e6fe5f5b1059af90fa14a61
   json
 
 BUNDLED WITH
