@@ -46,7 +46,7 @@ portate nella didattica rendono la lezione divertente e mai banale.
 
 <img src="/img/profantonopulos.jpg" width="400" height="300"/>
 
-Unico appunto personale penso che le lighning networs e sopratutto i payment
+Unico appunto personale penso che le lighning networks e sopratutto i payment
 channels bidirezionali avrebbero meritato qualche minuto (forse qualche giorno) aggiuntivo.
 
 Nel pomeriggio Deloitte aveva organizzato un evento per il pubblico invitato
