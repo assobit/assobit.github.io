@@ -21,13 +21,13 @@ Abbiamo avuto l'occasione di ascoltare dalla loro viva voce lo stato dello svilu
 
 "Lightning Network crea rapporti nuovi in cui fare affari con sconosciuti non è più un tema di affidamento della controparte in quanto la solvibilità dipende dall'infrastruttura"
 
-"Se ho un channel con un nodo che ha un channel aperto con una chain diversa su cui gira un asset posso pagare in bitcoin un destinatario che riceve sull'altra catena nell'asset della catena di destinazione"
+"Se ho un channel con un nodo che ha un channel aperto con una chain diversa su cui gira un asset posso pagare in bitcoin un destinatario che riceve il pagamento sull'altra catena nell'asset della catena di destinazione"
 
 <img src="/img/ln1.jpg" width="300" height="400"/>
 
 "I payment channels debbono aspettare comunque il settlement della rete per l'apertura del canale?"
 
-"Sì a meno che non ci sia un tipo di cosa alla 'lawrence' di mezzo. In quel caso l'apertura può essere istantanea"[Lawrence Nahum creatore di Greenaddres che con la sua infrastruttura si pone come terza parte a tutela contro la doppia spesa nell'apertura del canale]
+"Sì a meno che non ci sia un tipo di cosa alla 'Lawrence' di mezzo. In quel caso l'apertura può essere istantanea"[Lawrence Nahum creatore di Greenaddres che con la sua infrastruttura si pone come terza parte a tutela contro la doppia spesa nell'apertura del canale]
 
 "Se la rete si sviluppasse molto ed il debito calasse [poichè è difficile concedere prestito ad un utente di cui sai poco o niente] ci dovrebbe essere qualcosa che sostituisce il suo ruolo del debito. Siccome il debito è necessario nei casi in cui esiste uno sfasamento tra il momento del pagamento dei mezzi e i ricavi, la velocità di circolazione della moneta portata all'estremo potrebbe globalmente portare ad una diminuzione del debito necessaria al sistema economico."
 
