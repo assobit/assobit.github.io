@@ -1,10 +1,11 @@
 ---
 layout: post
-title: I Registri Condivisi o "Shared Ledgers"
+title: Titolo del post
 bgimg: /img/post-bg.jpg
-membro: Gabriele Domenichini
+membro: Membro di cui si parla o autore del post
 ruolo: Membro AssoB.it
 ---
+
 Test per vedere come verrebbe.
 
 # Questo è il titolo
