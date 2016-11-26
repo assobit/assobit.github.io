@@ -8,7 +8,7 @@ ruolo: Socio fondatore Assob.it
 In questo breve post è possibile ottenere alcune informazioni essenziali qualora subiste (speriamo di no!) un attacco con ransomware
 <!-- more -->
 
-##Consigli pratici in caso di attacco con ransomware
+## Consigli pratici in caso di attacco con ransomware
 
 Il ransomware sta crescendo esponenzialmente e anche se le statistiche non rappresentano
 in modo fedele l'effettivo numero dei soggetti colpiti (si consideri, ad esempio, tutti
@@ -25,7 +25,7 @@ Si è molto discusso sulla scelta di pagare il riscatto in bitcoin. Pur sconsigl
 non si ravvedono rischi di commettere illeciti ove si decidesse di pagarlo. Per questa ragione,
 abbiamo predisposto due modelli di denuncia che potete utilizzare per meglio chiarire i fatti
 alla Polizia Postale.
-Il primo nel caso in cui si sia deciso di [pagare il riscatto] (https://drive.google.com/file/d/0B9RhYggrYYllUFpUVGhpVUQ0c3NJaGtwa2tKd3A3QUM3V1ZF/view?usp=sharing)
-e il secondo qualora si sia deciso di [non pagarlo] (https://drive.google.com/file/d/0B9RhYggrYYllcDJLbTZoaXJBSWk1V1I1NFRqTW1pMDVyVGlZ/view?usp=sharing).
+Il primo nel caso in cui si sia deciso di [pagare il riscatto](https://drive.google.com/file/d/0B9RhYggrYYllUFpUVGhpVUQ0c3NJaGtwa2tKd3A3QUM3V1ZF/view?usp=sharing)
+e il secondo qualora si sia deciso di [non pagarlo](https://drive.google.com/file/d/0B9RhYggrYYllcDJLbTZoaXJBSWk1V1I1NFRqTW1pMDVyVGlZ/view?usp=sharing).
 
 Giuseppe Vaciago
