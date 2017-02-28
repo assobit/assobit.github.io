@@ -6,8 +6,6 @@ membro: Gabriele Domenichini
 ruolo: Presidente AssoB.it
 ---
 
-layout: post
----
 Ogni giovedì alle 19:00 UTC i core developers si trovano su IRC
 (calale #bitcoin-dev su irc.freenode.net)
 per discutere gli argomenti più importanti. Da mesi Stefan Gilis conosciuto come
