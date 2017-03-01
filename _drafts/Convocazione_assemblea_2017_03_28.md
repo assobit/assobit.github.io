@@ -21,6 +21,8 @@ Oppure da remoto tramite Hangout
 Si pregano i Consiglieri di richiedere variazioni all’OdG entro 20/03/2017 per permettere la 
 tempestiva raccolta di informazioni.
 
+Per le modalità di partecipazione e tutte le procedure, si rimanda allo [statuto](http://www.assob.it/statuto.html#7).
+
 I partecipanti che non possono essere presenti avvertano per tempo per consentire la partecipazione a distanza. 
 
 
