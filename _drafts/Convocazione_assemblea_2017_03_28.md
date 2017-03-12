@@ -5,6 +5,7 @@ Bologna, 29 Febbraio 2017
 A tutti i membri dell’associazione Assob.it: 
 
 Oggetto: Convocazione dell’Assemblea Dei Soci.
+
 Gentili Signori,
 il giorno 28 del mese di Marzo 2017 alle ore 11, 
 presso: 
@@ -14,9 +15,11 @@ Oppure da remoto tramite Hangout
 
 è convocata la l’Assemblea Dei Soci con l’ordine del giorno:
 
-* Approvazione del bilancio 2016
-* Rinnovo Membri del Consiglio direttivo
-* Varie ed eventuali
+1. Approvazione del bilancio 2016
+2. Rinnovo Membri del Consiglio direttivo
+3. Proposta rettifica statuto su compatibilità appartenenza e cariche politiche.
+4. Varie ed eventuali
+
 
 Si pregano i Consiglieri di richiedere variazioni all’OdG entro 20/03/2017 per permettere la 
 tempestiva raccolta di informazioni.
