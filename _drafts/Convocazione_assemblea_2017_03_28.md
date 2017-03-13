@@ -4,30 +4,25 @@ Bologna, 29 Febbraio 2017
 
 A tutti i membri dell’associazione Assob.it: 
 
-Oggetto: Convocazione dell’Assemblea Dei Soci.
+Oggetto: Convocazione dell’Assemblea Degli Associati.
 
 Gentili Signori,
 il giorno 28 del mese di Marzo 2017 alle ore 11, 
 presso: 
 Il Centro Copernico
 Via Copernico 38, 20124 Milano
-Oppure da remoto tramite Hangout
+Oppure da remoto tramite Hangout, si terrà l’Assemblea degli associati con per discutere e deliberare sul seguente ordine del giorno:
 
-è convocata la l’Assemblea Dei Soci con l’ordine del giorno:
+1.  Approvazione del bilancio 2016 e determinazione delle quote (annuale e di adesione) per l’esercizio 2017;
+2.  Determinazioni in merito alle modalità da adottare per la nomina dei nuovi membri degli organi associativi;
+3.  Rinnovo cariche del Consiglio Direttivo e dell’Organo di Controllo;
+4.  Proposta modifica statuto su incompatibilità tra status di associato e cariche politiche;
+5.  Varie ed eventuali.
 
-1. Approvazione del bilancio 2016
-2. Rinnovo Membri del Consiglio direttivo
-3. Proposta rettifica statuto su compatibilità appartenenza e cariche politiche.
-4. Varie ed eventuali
-
-
-Si pregano i Consiglieri di richiedere variazioni all’OdG entro 20/03/2017 per permettere la 
-tempestiva raccolta di informazioni.
-
+Si pregano i Consiglieri di richiedere variazioni all’OdG entro 20/03/2017 per permettere la tempestiva raccolta di informazioni.
 Per le modalità di partecipazione e tutte le procedure, si rimanda allo [statuto](http://www.assob.it/statuto.html#7).
 
 I partecipanti che non possono essere presenti avvertano per tempo per consentire la partecipazione a distanza. 
-
 
 Il Presidente
 gabriele.domenichini@assob.it.
