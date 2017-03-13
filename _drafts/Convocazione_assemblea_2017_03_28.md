@@ -11,7 +11,7 @@ il giorno 28 del mese di Marzo 2017 alle ore 11,
 presso: 
 Il Centro Copernico
 Via Copernico 38, 20124 Milano
-Oppure da remoto tramite Hangout, si terrà l’Assemblea degli associati con per discutere e deliberare sul seguente ordine del giorno:
+Oppure da remoto tramite Hangout, si terrà l’Assemblea degli Associati per discutere e deliberare sul seguente ordine del giorno:
 
 1.  Approvazione del bilancio 2016 e determinazione delle quote (annuale e di adesione) per l’esercizio 2017;
 2.  Determinazioni in merito alle modalità da adottare per la nomina dei nuovi membri degli organi associativi;
