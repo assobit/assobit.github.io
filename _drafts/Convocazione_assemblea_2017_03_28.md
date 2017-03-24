@@ -9,8 +9,11 @@ Oggetto: Convocazione dell’Assemblea Degli Associati.
 Gentili Signori,
 il giorno 28 del mese di Marzo 2017 alle ore 11, 
 presso: 
-Il Centro Copernico
-Via Copernico 38, 20124 Milano
+
+L'hotel Glam a Milano
+
+Piazza Duca d'Aosta, 4/6 - 20124 Milano (MI)
+
 Oppure da remoto tramite Hangout, si terrà l’Assemblea degli Associati per discutere e deliberare sul seguente ordine del giorno:
 
 1.  Approvazione del bilancio 2016 e determinazione delle quote (annuale e di adesione) per l’esercizio 2017;
