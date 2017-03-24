@@ -7,12 +7,12 @@ A tutti i membri dell’associazione Assob.it:
 Oggetto: Convocazione dell’Assemblea Degli Associati.
 
 Gentili Signori,
-il giorno 28 del mese di Marzo 2017 alle ore 11, 
+**il giorno 28 del mese di Marzo 2017 alle ore 11**, 
 presso: 
 
-L'hotel Glam a Milano
+**L'hotel Glam a Milano**
 
-Piazza Duca d'Aosta, 4/6 - 20124 Milano (MI)
+**Piazza Duca d'Aosta, 4/6 - 20124 Milano (MI)**
 
 Oppure da remoto tramite Hangout, si terrà l’Assemblea degli Associati per discutere e deliberare sul seguente ordine del giorno:
 
