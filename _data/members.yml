@@ -1,54 +1,30 @@
-- nome: Vincenzo Aguì
-  ruolo: Membro Fondatore
-  descrizione: Esperto di sicurezza informatica e di Bitcoin è sempre la voce fuori dal coro nelle riunioni. E' molto ascoltato perché spesso ha ragione.
-  immagine: /img/vincenzo.agui.jpg
-
-- nome: Ferdinando Ametrano
-  ruolo: Presidente dell'Organo di controllo
-  descrizione: Grande teorico della moneta si muove a suo agio negli ambienti finanziari e tecnici italiani ed esteri. Coltiva visioni ambiziose che nelle sue mani diventano progetti plausibili.
-  immagine: /img/ferdinando.ametrano.jpg
-
-- nome: Guido Baroncini Turricchia
-  ruolo: Membro Fondatore
-  descrizione: Ingegnere ambientale, speleologo e fotografo. Nel mondo delle monete matematiche è partner in Coin Capital e ideatore di Helperbit, la piattaforma P2P di Natural Disaster Mangement.
-  immagine: /img/assoguido.png
-
 - nome: Stefano Capaccioli
-  ruolo: Membro Del Comitato Direttivo
-  descrizione: Vulcanico pungolatore del mondo fiscale e legale scrive articoli e libri sul Bitcoin da anni. E' instancabile e l'associazione gli deve molto.
+  ruolo: Presidente
+  descrizione: Vulcanico pungolatore del mondo fiscale e legale scrive articoli e libri sul Bitcoin da anni.
   immagine: /img/stefano.capaccioli.jpg
 
-- nome: Riccardo Casatta
-  ruolo: Membro Fondatore
-  descrizione: Ingegnere creativo, ideatore e realizzatore di Eternity Wall.
-  immagine: /img/riccardo.casatta.jpg
+- nome: Giorgio Mazzoli
+  ruolo: Membro Del Direttivo
+  descrizione: Avvocato attivo da molti anni nel settore, membro fondatore di Assobit, convinto sostenitore di questa nuova industry.
+  immagine: https://lh3.googleusercontent.com/qqfawH4FFoDXAizMOgov_AkXuRAwrMcYEX0Q4bsvXOxuy0kv4g
+
+- nome: Ferdinando Ametrano
+  ruolo: Membro Del Direttivo
+  descrizione: Grande teorico della moneta si muove a suo agio negli ambienti finanziari e tecnici italiani ed esteri.
+  immagine: /img/ferdinando.ametrano.jpg
+
+- nome: Thomas Bertani
+  ruolo: Membro Del Direttivo
+  descrizione: CEO di Oraclize, founder di Bitboat, membro fondatore di Assobit.
+  immagine: https://pbs.twimg.com/profile_images/625228091955245056/NxN7KzXy_400x400.jpg
 
 - nome: Massimo Chiriatti
-  ruolo: Responsabile Relazioni Esterne AssoB.it
-  descrizione: Tecnologo in una multinazionale dell'informatica e collaboratore del Sole24Ore, Massimo riesce sempre a stupire regalando i migliori articoli  sui Bitcoin finora scritti in Italiano grazie alla opera di Maieutica che svolge sui più grandi esperti del settore.
+  ruolo: Membro Del Direttivo
+  descrizione: Tecnologo in una multinazionale dell'informatica e collaboratore del Sole24Ore.
   immagine: /img/massimo.chiriatti.jpg
 
-- nome: Gabriele Domenichini
-  ruolo: Presidente
-  descrizione: Da sempre interessato alla tecnologia si è appassionato ai Bitcoin dal 2011.
-  immagine: /img/gabriele.domenichini.jpg
+- nome: Paolo Luigi Burlone
+  ruolo: Membro Dell'Organo Di Controllo
+  descrizione: Dottore Commercialista e Revisore Contabile interessato al settore da anni e impegnato per l'avanzamento dello stesso.
+  immagine: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAPjAAAAJGRkMDUxYjc0LTM3ZjItNGQzMC04M2FmLTI5YzY0ZjI1YmFlYw.jpg
 
-- nome: Andrea Medri
-  ruolo: Membro Del Comitato Direttivo e Tesoriere
-  descrizione: Sempre impegnato a tessere nuove alleanze e disegnare strategie, si muove a suo agio coi politici, coi tecnici, con gli investitori. Tiene anche i cordoni della borsa della società, ragion per cui gli vogliamo tutti molto bene.
-  immagine: /img/andrea.medri.jpg
-
-- nome: Daniele Minussi
-  ruolo: Membro
-  descrizione: Notaio in Lecco, già giudice istruttore presso il Tribunale di Lecco, docente di diritto civile presso il servizio di Formazione Permanente dell’Università Cattolica del Sacro Cuore di Milano.
-  immagine: /img/FotoDanieleMinussi.JPG
-
-- nome: Lawrence Nahum
-  ruolo: Membro Fondatore
-  descrizione: Creatore di GreenAddress, il più avanzato wallet Bitcoin sul mercato. Molto selettivo nelle sue simpatie, conosce il Bitcoin più di sè stesso. Molto difficile coglierlo in fallo. Conviene tacere e ascoltare.
-  immagine: /img/lawrence.nahum.jpeg
-
-- nome: Giacomo Zucco
-  ruolo: Vicepresidente
-  descrizione: Fisico di formazione, blogger economico e attivista 'anti-tasse', imprenditore e CEO di BLOCKCHAINLAB, impara in fretta e spazia in campi molto diversi, questo gli permette di restare in contatto come pochi con il mondo fluido e multidisciplinare di Bitcoin.
-  immagine: /img/giacomo.zucco.jpg
